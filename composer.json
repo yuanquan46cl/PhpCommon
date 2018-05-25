@@ -1,0 +1,18 @@
+{
+  "name": "yuanquan46cl/phpcommon",
+  "description": "phpbaselib",
+  "license": "MIT License",
+  "authors": [
+    {
+      "name": "yuanzg",
+      "email": "372492767@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Hello\\": "src/"
+    }
+  }
+}
